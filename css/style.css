@@ -1,0 +1,73 @@
+/* header{
+  background-color: LightSeaGreen;
+  color: Gold;
+  font-size:50px
+}
+body{
+  background-color: LightSeaGreen;
+  color: Gold;
+  font-size:30px
+}
+p{
+  color: Gold;
+  font-size:30px
+}
+h2, h3, h4, h5, h6{background-color: LightSeaGreen;
+color: Gold;
+font-size:30px
+} */
+body{background-image: url(https://data.1freewallpapers.com/download/big-sur-apple-4k-abstract.jpg);}
+li{
+  display: inline-block;
+  padding: 20px 20px;
+
+}
+a{
+  background-color:DarkOrange;
+  border:2px solid DarkOrange;
+  border-radius: 5px;
+  font-size:25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: white;
+  font-style: arial;
+
+}
+header{
+  color: OrangeRed;
+}
+main{
+  color: DarkRed
+}
+footer{
+  color: white
+}
+a:hover{
+  background-color:Orange;
+  border:2px solid Orange;
+  border-radius: 5px;
+  font-size:30px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: white;
+}
+.posts{
+  background-color:none;
+  border:2px ;
+  border-radius: 5px;
+  font-size:16px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: black;
+}
+.button{
+  background-color:red;
+  border:2px ;
+  border-radius: 5px;
+  font-size:12px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: white;
+  width: 100px;
+  margin: 5px 150px;
+}
